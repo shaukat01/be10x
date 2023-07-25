@@ -1,0 +1,1 @@
+# About : I attended the 'Be 10'x AI Tools Workshop.' The workshop was a game-changer, covering the latest AI tools with practical insights. I learned a lot about AI tools and how to use ChatGPT in real-life problems. Additionally, I gained knowledge about effectively integrating ChatGPT with different AI tools
